@@ -1,4 +1,4 @@
-# CONTRA III: THE ALIEN WARS — STAGE 1 DEMO
+# Meaningless-vibe-code-project-2 
 
 **Project Codename:** Meaningless Vibe Code Project 2
 
