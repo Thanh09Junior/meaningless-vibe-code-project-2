@@ -84,6 +84,12 @@ The entire game lives inside a single self-contained `index.html` file with zero
 
 ---
 
+## Acknowledgement
+
+This project is deeply inspired by **Contra III: The Alien Wars** (1992), originally created, developed, and published by **Konami** for the Super Nintendo Entertainment System (SNES). We do **not** claim ownership of the original game concept, run-and-gun design identity, or any intellectual property belonging to Konami. All credit for the original game idea and classic inspiration goes to Konami and the original *Contra III* development team.
+
+---
+
 ## Fan-Project Disclaimer & Copyright Attribution
 
 This project is an **unofficial, non-commercial fan-inspired homage** to *Contra III: The Alien Wars* (1992, Konami). It is not affiliated with, endorsed by, or associated with Konami Digital Entertainment Co., Ltd.
